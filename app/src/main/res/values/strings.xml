@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reproductor Musical</string>
+    <string name="bucle">Boton para genera bucle</string>
+    <string name="retroceder">retroceder</string>
+    <string name="play">play Musical</string>
+    <string name="avanzar">avanzar</string>
+    <string name="stop">stop</string>
+    <string name="texto">Texto de la Canción</string>
+    <string name="contexto">Descripcion de la imagen</string>
+
+    <string name="toolbar">Mi Aplicación</string>
+    <string name="botiz">Boton Izquierdo</string>
+    <string name="botder">Boton Derecho</string>
+    <string name="botonpausa">Boton de pausa</string>
+</resources>
